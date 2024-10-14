@@ -1,10 +1,13 @@
 # FoundryVTT Critical Hit and Fumble Deck for Pathfinder 1st Edition
 A Foundry VTT module for Pathfinder 1's Critical Hit and Fumble Deck
 
+Updated to v11 by Phoenix Alexander.  Forked from https://github.com/Nargath/fvtt-crit-hits-and-fumbles-pf1 
+Below is the original README.md edited for accurate manifest URL.
+
 This is not listed on the Foundry VTT module listing.
 To install this, paste this manifest URL into the 'Manifest URL field in Install Modules of the core Foundry program.
 
-https://raw.githubusercontent.com/Nargath/fvtt-crit-hits-and-fumbles-pf1/main/module.json
+[https://raw.githubusercontent.com/Nargath/fvtt-crit-hits-and-fumbles-pf1/main/module.json](https://github.com/R0gu3P403n1x/pf1e-Crit-decks/releases/download/pf1-crit-decks/module.json)
 
 ![Where To Install](/images/WhereToInstall.png)
 
